@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZw6/vgMz6E=",
+  "success": true,
+  "projectFilePath": "D:\\Blazor-Assignment-4\\App08-TodoWithDatabase\\App08-TodoWithDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
